@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket</h1>
-<h3 align="center">Aspiring GEN-AI, |FULL Stack Developer | PYTHON, REACT, VUE.js, typescript</h3>
+<h3 align="center">Aspiring GEN-AI, |FULL Stack Developer | PYTHON, REACT, VUE.JS,NODE.JS</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aniket827&color=blue" alt="profile views"/>
