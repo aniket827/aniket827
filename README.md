@@ -13,8 +13,8 @@
 - 🚀 Currently building backend systems with **Node.js, Express & TypeScript** — REST APIs, JWT auth, middleware, MVC architecture
 - 📊 Also work with **Python & Power BI** for data visualization and ETL pipelines
 - 🌱 Sharpening **DSA / competitive programming** skills alongside backend dev
-- 📫 Reach me at: **[your-email@gmail.com]**
-- 🔗 Portfolio: **[your-portfolio-link]**
+- 📫 Reach me at: **[aniketmishra3590@gmail.com]**
+- 🔗 Portfolio: *[under maintainece and update]**
 
 ---
 
